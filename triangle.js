@@ -13,3 +13,5 @@ const missingAngle = (num1, num2) => {
 console.log(missingAngle(27, 59))
 console.log(missingAngle(135, 11))
 console.log(missingAngle(45, 45))
+console.log(missingAngle(125, 11))
+console.log(missingAngle(30, 60))
